@@ -17,4 +17,4 @@
 
 ## Resources
 
--  [Set up Tailwind Css with Angualr in an Nx Workspace](https://blog.nrwl.io/set-up-tailwind-css-with-angular-in-an-nx-workspace-6f039a0f4479)
+-  [Set up Tailwind Css with Angular in an Nx Workspace](https://blog.nrwl.io/set-up-tailwind-css-with-angular-in-an-nx-workspace-6f039a0f4479)
