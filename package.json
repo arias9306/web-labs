@@ -2,7 +2,9 @@
   "name": "@web-labs/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "start:web-labs": "nx serve web-labs --port=4201"
+  },
   "private": true,
   "devDependencies": {
     "@angular-devkit/build-angular": "~16.1.0",
@@ -58,4 +60,3 @@
     "zone.js": "~0.13.0"
   }
 }
-
