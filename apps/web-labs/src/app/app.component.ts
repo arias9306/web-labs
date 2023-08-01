@@ -1,10 +1,10 @@
 import { Component } from '@angular/core';
 import { RouterModule } from '@angular/router';
-import { NxWelcomeComponent } from './nx-welcome.component';
+import { WebSharedUiHeaderComponent } from '@web-labs/web/shared/ui/header';
 
 @Component({
   standalone: true,
-  imports: [NxWelcomeComponent, RouterModule],
+  imports: [RouterModule, WebSharedUiHeaderComponent],
   selector: 'labs-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss'],
