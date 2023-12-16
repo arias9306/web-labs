@@ -15,6 +15,9 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@web-labs/formly-wrapper": [
+        "libs/web/shared/ui/formly-wrapper/src/index.ts"
+      ],
       "@web-labs/web/shared/ui/card": ["libs/web/shared/ui/card/src/index.ts"],
       "@web-labs/web/shared/ui/header": [
         "libs/web/shared/ui/header/src/index.ts"
