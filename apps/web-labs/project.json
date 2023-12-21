@@ -16,7 +16,10 @@
         "polyfills": ["zone.js"],
         "tsConfig": "apps/web-labs/tsconfig.app.json",
         "assets": ["apps/web-labs/src/favicon.ico", "apps/web-labs/src/assets"],
-        "styles": ["apps/web-labs/src/styles.scss"],
+        "styles": [
+          "@angular/material/prebuilt-themes/indigo-pink.css",
+          "apps/web-labs/src/styles.scss"
+        ],
         "scripts": []
       },
       "configurations": {

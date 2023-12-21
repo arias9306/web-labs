@@ -1,10 +1,9 @@
 import { Component } from '@angular/core';
-import { CommonModule } from '@angular/common';
 
 @Component({
   selector: 'web-labs-web-shared-ui-header',
   standalone: true,
-  imports: [CommonModule],
+  imports: [],
   templateUrl: './web-shared-ui-header.component.html',
   styleUrls: ['./web-shared-ui-header.component.css'],
 })
