@@ -44,6 +44,7 @@
     ],
     "sharedGlobals": []
   },
+  "defaultProject": "web-labs",
   "generators": {
     "@nx/angular:application": {
       "style": "scss",
